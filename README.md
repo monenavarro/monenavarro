@@ -16,8 +16,8 @@
 An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Enthralled by Front-End Development particularly, due to it's visually creative nature. 
 Competent in encompassing an Agile workflow and implementing a succinct and precise Test Driven Development process, applying personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
-#### 🌱 🌱 🌱
-I'm currently working on The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy.
+### 🌱 Currently working on:
+The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy.
 
 
 ### Projects:
