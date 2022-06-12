@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello friend 👋
 
 <h1 align="center"> Monica Navarro </h1>
 <h3 align="center"> Junior Software Engineer</h3>
-<h4 align="center">Makers Academy Graduate (March 22 Cohort)</h4>
+<h4 align="center">Makers Academy Graduate (March '22 Cohort)</h4>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/monica-navarro-8a6939238/">
@@ -15,7 +15,7 @@
  </div><p> &nbsp </p>
 
 ### About me:
-An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Competent in encompassing an Agile workflow and implementing a succinct and precise Test Driven Development process, applying personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An open-minded and excellent team-member with strong transferable skills. 
+An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Enthralled by Front-End Development particularly, due to it's visually creative nature. Competent in encompassing an Agile workflow and implementing a succinct and precise Test Driven Development process, applying personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
 
 ### Projects:
@@ -50,6 +50,11 @@ An ambitious, highly driven and committed tech enthusiast; with a solid foundati
 
 #### ☁ Cloud
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+
+### Miscellaneous
+
+#### 🌱 I'm currently working on The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy.
+#### 🎓 Midwife
 
 <!--
 **monenavarro/monenavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
