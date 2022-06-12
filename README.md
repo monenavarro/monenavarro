@@ -37,7 +37,7 @@ An ambitious, highly driven and committed tech enthusiast; with a solid foundati
 #### ⭐ Frameworks 
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 
 
 #### 🧩 Database 
@@ -53,6 +53,7 @@ An ambitious, highly driven and committed tech enthusiast; with a solid foundati
 
 ### Miscellaneous
 
+#### 🧡 she/her
 #### 🌱 I'm currently working on The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy.
 #### 🎓 Midwife
 
