@@ -1,5 +1,3 @@
-### Hello friend 👋
-
 <h1 align="center"> Monica Navarro </h1>
 <h3 align="center"> Junior Software Engineer</h3>
 <h4 align="center">Makers Academy Graduate (March '22 Cohort)</h4>
