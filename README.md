@@ -19,6 +19,7 @@ Competent in Agile workflow practices and implementing a succinct and precise Te
 
 ### 🌱 Currently working on:
 The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy. <br />
+<br />
 [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 
