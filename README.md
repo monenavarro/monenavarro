@@ -8,17 +8,18 @@
    <a href="https://github.com/monenavarro">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     
-   My Github CV [here](https://github.com/monenavarro/CV)
+   My Github CV [link](https://github.com/monenavarro/CV)
  
  </div><p> &nbsp </p>
 
 ### About me:
 An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Particularly enthralled by Front-End Development, due to it's visually creative nature. <br />
 <br />
-Competent in Agile workflow practices and implementing a succinct and precise Test Driven Development process, applying personally developed testing frameworks in addition to well known frameworks such as Jest and RSpec. An open-minded and excellent team-member with strong transferable skills. 
+Competent in Agile workflow practices and implementing a succinct and precise Test Driven Development process: applying personally developed testing frameworks in addition to well known frameworks such as Jest and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
 ### 🌱 Currently working on:
-The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy.
+The Odin Project's JS Full Stack Path to continue developing my knowledge and skills upon completion of Maker's Academy. <br />
+[The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 
 ### Projects:
