@@ -13,7 +13,7 @@
  </div><p> &nbsp </p>
 
 ### About me:
-An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Enthralled by Front-End Development particularly, due to it's visually creative nature. 
+An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles, courtesy of Makers Academy Bootcamp. Enthralled by Front-End Development particularly, due to it's visually creative nature. <br />
 <br />
 Competent in encompassing an Agile workflow and implementing a succinct and precise Test Driven Development process, applying personally developed testing frameworks in addition to well known frameworks such as Jasmine and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
