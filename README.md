@@ -56,8 +56,9 @@ The Odin Project's JS Full Stack Path to continue developing my knowledge and sk
 ### Miscellaneous
 
 #### 🧡 she/her/hers
-#### 🇵🇭
+#### 🇵🇭 in the UK
 #### 🎓 Midwife
+#### 🐶 Milo
 
 <!--
 **monenavarro/monenavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
