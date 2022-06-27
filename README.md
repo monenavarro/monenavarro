@@ -5,8 +5,6 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/monica-navarro-8a6939238/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://github.com/monenavarro">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     
    My Github CV [link](https://github.com/monenavarro/CV)
  
