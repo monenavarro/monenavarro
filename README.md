@@ -16,7 +16,7 @@ An ambitious, highly driven and committed tech enthusiast; with a solid foundati
 Competent in Agile workflow practices and implementing a succinct and precise Test Driven Development process: applying well known frameworks such as Jest and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
 ### 🌱 Currently working on:
-Wiley Edge: Women In Tech Aspire Programme ~ Learning JAVA in a cohort of incredible women <br />
+Wiley Edge: Women In Tech Aspire Programme ~ Learning JAVA in 10 weeks with a cohort of incredible women! <br />
 <br />
                              [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)      
 
