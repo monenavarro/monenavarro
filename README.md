@@ -11,7 +11,7 @@
  </div><p> &nbsp </p>
 
 ### About me:
-An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles (TDD, OOP, DRY etc.) courtesy of Makers Academy Bootcamp. Particularly enthralled by Front-End Development, due to its visually creative nature. <br />
+An ambitious, highly driven and committed tech enthusiast; with a solid foundation in software development and programming principles (TDD, OOP, DRY etc.) Particularly enthralled by Front-End Development, due to its visually creative nature. <br />
 <br />
 Competent in Agile workflow practices and implementing a succinct and precise Test Driven Development process: applying well known frameworks such as Jest and RSpec. An open-minded and excellent team-member with strong transferable skills. 
 
