@@ -1,6 +1,6 @@
 <h1 align="center"> Monica Navarro </h1>
 <h3 align="center"> Junior Software Developer</h3>
-<h4 align="center">Makers Academy Graduate (March '22 Cohort)</h4>
+
 
 <div align="center">
  <a href="https://www.linkedin.com/in/monica-navarro-8a6939238/">
